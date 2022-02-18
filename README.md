@@ -6,6 +6,8 @@ CSRF (Cross-site request forgery) Vulnerability discovered in Anchor CMS v0.12.7
 Request interface for adding, deleting, modifying and checking posts in anchor/routes/posts.php.
 
 let us see code it delete a posts. 
+
+https://github.com/anchorcms/anchor-cms/blob/master/anchor/routes/posts.php#L355
 ```
     /**
      * Delete post
