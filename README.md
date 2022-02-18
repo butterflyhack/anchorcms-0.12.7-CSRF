@@ -62,7 +62,7 @@ Then save the PoC code to a exploit.html, and click exploit.html to csrf attack.
 ![1](https://user-images.githubusercontent.com/11525772/154665895-36b7575d-368d-495c-830e-80fc17bc02c0.jpg)
 
 
-click it to send a request and delete is successfly.
+click it to send a request and delete it successfully.
 ![1645180292(1)](https://user-images.githubusercontent.com/11525772/154665976-e329e3d5-b820-43fa-a9c3-d8dce7f085b1.jpg)
 
  
